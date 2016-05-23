@@ -1,7 +1,7 @@
-![BloodCore GitHub Header](https://raw.githubusercontent.com/web-bloodcore/image-assets/master/github-header.png)
+![DropCore GitHub Header](https://raw.githubusercontent.com/dropcore/image-assets/master/github-header.png)
 
 # About
-This repository contains all publicly available image assets available for __BloodCore__.
+This repository contains all publicly available image assets available for __DropCore__.
 
 # License
-All images are licensed under the __MIT license__. See the __LICENSE.txt__ file for more information.
+All images are licensed under the **MIT** license. See the `LICENSE.md` file for more information.
